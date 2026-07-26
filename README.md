@@ -12,3 +12,9 @@ This folder contains all the basic C programs I am learning in my college labs, 
  My Setup
 - Code written and compiled entirely on my Android phone using **CXxdroid**.
 - Tracked and managed using GitHub to build early industry habits.
+
+📅 July 26, 2026
+Learned: Basic inputs and arithmetic operators on Programiz.and saw some examples 
+Experimented:Changed variable values to see how the outputs change.i also tried to find remainder by using modulo but it didn't workout i think it was because the values of int should always be numbers not decimals 
+* Files:Added `assigning_one_value_of_variable.c` and `sum_product_and_difference.c`
+readme and 
