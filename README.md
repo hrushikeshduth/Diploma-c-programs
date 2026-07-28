@@ -26,3 +26,10 @@ int , and after that printed double so the ans showed in int
 whereas I did vice versa reverse 
 files:added 
 *type_conversion.c*,*explicit_type_conversion.c*
+
+july 28,2026
+
+learned:how to printf upto 3 or more decimals places 
+experimented:in programiz they only have values I added input sonthatvit would be a working code 
+files:
+implicit_coversion.c upto_2_decimal
