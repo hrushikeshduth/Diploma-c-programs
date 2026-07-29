@@ -33,3 +33,7 @@ learned:how to printf upto 3 or more decimals places
 experimented:in programiz they only have values I added input sonthatvit would be a working code 
 files:
 implicit_coversion.c upto_2_decimal
+
+july 29,2026 
+meeting brotherdddd 
+data_type_values.c
