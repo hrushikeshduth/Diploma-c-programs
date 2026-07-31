@@ -41,4 +41,4 @@ data_type_values.c
 july 31,2026
 learned:new lesson of operators
 experimented:none 
-files:
+files:input_0_checker.c
