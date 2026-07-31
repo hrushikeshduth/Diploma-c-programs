@@ -42,3 +42,4 @@ july 31,2026
 learned:new lesson of operators
 experimented:none 
 files:input_0_checker.c
+      sum_and_average_calculator.c(it's assignment I know it's cheating but its productive right)
