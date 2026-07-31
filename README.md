@@ -37,3 +37,8 @@ implicit_coversion.c upto_2_decimal
 july 29,2026 
 meeting brotherdddd 
 data_type_values.c
+
+july 31,2026
+learned:new lesson of operators
+experimented:none 
+files:
