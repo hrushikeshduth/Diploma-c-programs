@@ -48,3 +48,4 @@ files:input_0_checker.c
 learned:new lesson if else statements not totally perfect
 experimented:it gave if else only on number basic form i created ssc grading like a system 
 files:ssc_grading_system.c
+      second_largest_number.c
