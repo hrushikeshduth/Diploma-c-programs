@@ -43,3 +43,8 @@ learned:new lesson of operators
 experimented:none 
 files:input_0_checker.c
       sum_and_average_calculator.c(it's assignment I know it's cheating but its productive right)
+
+ august 1,2026
+learned:new lesson if else statements not totally perfect
+experimented:it gave if else only on number basic form i created ssc grading like a system 
+files:ssc_grading_system.c
