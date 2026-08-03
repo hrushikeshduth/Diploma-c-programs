@@ -50,3 +50,7 @@ experimented:it gave if else only on number basic form i created ssc grading lik
 files:ssc_grading_system.c
       second_largest_number.c
       even_or_odd_checker_.c
+august 2,2026
+learned:started loops 
+experimented:today none
+files:numbers_from_1_to_10.c
