@@ -54,3 +54,4 @@ august 2,2026
 learned:started loops 
 experimented:today none
 files:numbers_from_1_to_10.c
+files:total_sum_from_1_to_100.c
