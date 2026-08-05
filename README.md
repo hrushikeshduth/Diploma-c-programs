@@ -57,5 +57,10 @@ files:numbers_from_1_to_10.c
 files:total_sum_from_1_to_100.c
 august 4,2026
 files:table_loop.c
+august 5,2026
+learnt:while_loop
+files:while_loop.c
+     power_changer.v
+
 
 
