@@ -60,7 +60,13 @@ files:table_loop.c
 august 5,2026
 learnt:while_loop
 files:while_loop.c
-     power_changer.v
+     power_changer.c
+
+
+
+august 6,2926
+TRYING TO MASTER LOOPS
+files:sum_of_squares.c
 
 
 
