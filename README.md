@@ -64,9 +64,13 @@ files:while_loop.c
 
 
 
-august 6,2926
+august 6,2026
 TRYING TO MASTER LOOPS
 files:sum_of_squares.c
+
+
+august 7,2026
+files:unknown_number_iterations.c
 
 
 
