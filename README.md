@@ -74,7 +74,8 @@ files:unknown_number_iterations.c
 
 august 8,2026
 learnt:do while loop 
-experiment:for now none 
+experiment:i experimented the magic coming double daily in the teh exponential wizard loop
 files:do_while_loop.c
+       the_exponential_wizard.c
 
 
