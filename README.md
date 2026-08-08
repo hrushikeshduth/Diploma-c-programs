@@ -72,5 +72,9 @@ files:sum_of_squares.c
 august 7,2026
 files:unknown_number_iterations.c
 
+august 8,2026
+learnt:do while loop 
+experiment:for now none 
+files:do_while_loop.c
 
 
