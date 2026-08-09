@@ -79,3 +79,8 @@ files:do_while_loop.c
        the_exponential_wizard.c
 
 
+august 9,2026
+learnt:break statement
+experimented:in the example they gave with for loop i tried with while loop it worked out
+files:break_while.c
+
