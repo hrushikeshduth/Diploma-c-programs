@@ -84,3 +84,7 @@ learnt:break statement
 experimented:in the example they gave with for loop i tried with while loop it worked out
 files:break_while.c
 
+august 10,2026
+learnt: how to use break statement in a code loop 
+debugged:was stuck because the output statement I kept inside the body of increment which caused simultaneously addition each turn it printed the number and i have and added to sum and gave final sum but now after changing its position outside the increment body in the return 0 body above it i got the desired output of adding each outcome 
+files:randon_value_addition.c
