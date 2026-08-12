@@ -95,5 +95,8 @@ files:factorial.c
 
 august 12,2026
 
+learnt:switch statement
+experiment:got to know the the secret of charcter scanf statement " %c" we must leave space
 
 files: continue_while_loop.c
+       switch_simple_calculator.c
