@@ -100,3 +100,8 @@ experiment:got to know the the secret of charcter scanf statement " %c" we must 
 
 files: continue_while_loop.c
        switch_simple_calculator.c
+
+august 13,2026
+assignment question day 1
+
+files: assignment_day_1.c
