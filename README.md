@@ -102,6 +102,11 @@ files: continue_while_loop.c
        switch_simple_calculator.c
 
 august 13,2026
+
 assignment question day 1
 
 files: assignment_day_1.c
+
+august 14,2026
+
+files:daiky_2_day.c
