@@ -110,3 +110,7 @@ files: assignment_day_1.c
 august 14,2026
 
 files:daiky_2_day.c
+
+august 15,2026
+
+streak lost was very busy
