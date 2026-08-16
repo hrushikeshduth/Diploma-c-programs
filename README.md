@@ -114,3 +114,9 @@ files:daiky_2_day.c
 august 15,2026
 
 streak lost was very busy
+
+august 16,2026
+
+learnt:how to printf ASCII value and what is it
+
+files: programming_question_day_4.c
