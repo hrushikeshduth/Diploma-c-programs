@@ -126,3 +126,4 @@ files: programming_question_day_4.c
 august 18,2026
 
 files:to_find_factors_of_given_number.c
+      to_convert_seconds_to_hours_minutes.c
