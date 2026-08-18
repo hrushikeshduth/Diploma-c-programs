@@ -93,6 +93,7 @@ august 11,2026
 files:factorial.c
 
 
+
 august 12,2026
 
 learnt:switch statement
@@ -120,3 +121,8 @@ august 16,2026
 learnt:how to printf ASCII value and what is it
 
 files: programming_question_day_4.c
+
+
+august 18,2026
+
+files:to_find_factors_of_given_number.c
