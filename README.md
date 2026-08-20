@@ -127,3 +127,7 @@ august 18,2026
 
 files:to_find_factors_of_given_number.c
       to_convert_seconds_to_hours_minutes.c
+
+august 20,2026
+
+files:story.c
