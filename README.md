@@ -135,3 +135,9 @@ files:story.c
 august 21,2026
 
 files:kilo_pound_conversion_project.c
+
+august 23,2026
+
+learnt:how to use getchar statment 
+debugged:i tried to fix the problem of buffer in scanf i fixed it by getchar statement 
+files:smart_fuel_station.c
