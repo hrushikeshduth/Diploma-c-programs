@@ -148,4 +148,7 @@ august 25,2026
 learnt:functions
 files: functions.c
 
+august 26,2026
+files:number_of_digits_and_thier_sum.c
+
 
