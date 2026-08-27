@@ -151,4 +151,7 @@ files: functions.c
 august 26,2026
 files:number_of_digits_and_thier_sum.c
 
+august 27,2026
+files:Doubling_an_integer_input_without_multiplying_operator.c
+
 
