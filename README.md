@@ -154,4 +154,8 @@ files:number_of_digits_and_thier_sum.c
 august 27,2026
 files:Doubling_an_integer_input_without_multiplying_operator.c
 
+august 28,202y
+files:Very_tricky_with_alternate_signs.c
+
+
 
