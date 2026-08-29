@@ -154,8 +154,13 @@ files:number_of_digits_and_thier_sum.c
 august 27,2026
 files:Doubling_an_integer_input_without_multiplying_operator.c
 
-august 28,202y
+august 28,2026
 files:Very_tricky_with_alternate_signs.c
+
+august 29,2026
+files:
+Checking_if_its_an_vowel_integer_consonant.c
+
 
 
 
