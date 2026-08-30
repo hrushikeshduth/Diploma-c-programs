@@ -160,6 +160,9 @@ files:Very_tricky_with_alternate_signs.c
 august 29,2026
 files:
 Checking_if_its_an_vowel_integer_consonant.c
+august 30,2026
+files:
+Sum_of_all_N_numbers_till_N.c
 
 
 
