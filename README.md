@@ -163,7 +163,6 @@ Checking_if_its_an_vowel_integer_consonant.c
 august 30,2026
 files:
 Sum_of_all_N_numbers_till_N.c
-
-
-
-
+august 31,2026
+files:
+to_print_stars_using_function.c
