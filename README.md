@@ -173,3 +173,10 @@ files:new_mile_stone_prime_number_checker_using_functions.c
 learnt:better_usage of return and function statements 
 September 4,2026
 files: worksheet_qnofunctions.c
+
+
+
+
+
+September 5,2026
+files:function_prototype.c
