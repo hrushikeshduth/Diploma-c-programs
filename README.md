@@ -163,14 +163,26 @@ Checking_if_its_an_vowel_integer_consonant.c
 august 30,2026
 files:
 Sum_of_all_N_numbers_till_N.c
+
+
+
 august 31,2026
 files:
 to_print_stars_using_function.c
+
+
+
 September 1,2026
 float_return_value_function.c
+
+
+
 September 2,2026
 files:new_mile_stone_prime_number_checker_using_functions.c
 learnt:better_usage of return and function statements 
+
+
+
 September 4,2026
 files: worksheet_qnofunctions.c
 
@@ -180,3 +192,7 @@ files: worksheet_qnofunctions.c
 
 September 5,2026
 files:function_prototype.c
+
+
+September 6,2026
+files:my_version_of_factorial.c
