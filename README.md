@@ -200,5 +200,7 @@ files:my_version_of_factorial.c
 September 8,2026
 files:leap_year_checker.c
 
+September 10,2026
+files:sum_average_of_numbers_by_arrays.c
 
 
