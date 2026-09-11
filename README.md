@@ -204,3 +204,7 @@ September 10,2026
 files:sum_average_of_numbers_by_arrays.c
 
 
+September 11,2026
+files:quadratic_equation.c
+
+
