@@ -207,4 +207,7 @@ files:sum_average_of_numbers_by_arrays.c
 September 11,2026
 files:quadratic_equation.c
 
+September 12,2026
+files:Number_guessing_game_using_random_functions.c
+
 
