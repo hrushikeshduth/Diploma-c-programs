@@ -214,6 +214,10 @@ files:Number_guessing_game_using_random_functions.c
 September 13,2026
 files:reversing_a_number.c
 
-September 13,2026
+
+September 14,2026
 files:Rock_paper_scissors_using_functions_optimized.c
 
+
+September 15,2026
+files:Overcomplicated_version_of_asnding_order.c
