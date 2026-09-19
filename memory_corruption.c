@@ -1,0 +1,2 @@
+//The "Memory Corruption" Simulation 💻The Scenario:You are writing a program that simulates a locked system memory bank. The bank is protected by 5 encrypted security blocks (an array).The Goal:Write a program where the user selects a memory block, inputs a "byte overwrite" value, and tries to corrupt the memory bank until every single block is successfully dropped to 0 or lower.
+	
