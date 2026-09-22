@@ -33,7 +33,36 @@ scanf("%d",&YEAR);
 
 
 
+//#include <stdio.h the block ill try adjusting >
+/*
+int main()
+{
+int YEAR=0;
+printf("ENTER THE YEAR\n");
+scanf("%d",&YEAR);
 	
+if(YEAR%4==0){
+if(YEAR%100==0){
+if()
+	
+}
+
+
+
+}
+else{
+printf("ITS NOT A LEAP YEAR ");
+	
+	
+}*/
+	
+}
+else {
+	
+printf("ITS NOT A LEAP YEAR ");	
+	}
+return 0;
+}
 	
 	
 	
