@@ -46,18 +46,33 @@ if(YEAR%100==0){
 if()
 	
 }
-
-
-(year % 4 == 0 && year % 100 != 0) || year % 400 == 0
+if(YEAR%4==0){
+if(YEAR%100==0){
+if(YEAR%400==0){
+printf("it's a leap year");
 
 }
 else{
-printf("ITS NOT A LEAP YEAR ");
+printf("it's not a leap year");	
+}
 	
-	
-}*/
 	
 }
+else{
+printf("it's  a leap year");}
+}	
+
+else{
+printf("it's not a leap year ");	
+}
+}
+
+
+(
+
+	
+}
+	*/
 else {
 	
 printf("ITS NOT A LEAP YEAR ");	
