@@ -240,3 +240,6 @@ files:memory_corruption.c
 September 24,2026
 files:months.c
 //need to work on it//working.
+
+28-30
+EXAMS!!!!
