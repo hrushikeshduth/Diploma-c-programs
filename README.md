@@ -244,3 +244,7 @@ files:months.c
 28-30
 EXAMS!!!!
 BUSY
+
+
+October 1,2026
+sum_of_any_given_5_numbers_using_do_while.c
