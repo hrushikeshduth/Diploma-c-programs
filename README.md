@@ -252,3 +252,6 @@ learnt:how to actually use a do while loop correct
 •the counter is 0 that's why i needed to keep counter less than equal 9 0-9 is 10
 Tommorow I'll try doing bitwise or continue my months.v
 
+October 2,2026
+I was quite busy was unable to do bitwise soorry
+
