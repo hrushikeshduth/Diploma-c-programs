@@ -255,3 +255,8 @@ Tommorow I'll try doing bitwise or continue my months.v
 October 2,2026
 I was quite busy was unable to do bitwise soorry
 
+
+Octeber 3,2026
+months.c
+learnt:what does segmentation fault mean 
+fix:it's a memory addres problem from what I know 
