@@ -260,3 +260,7 @@ Octeber 3,2026
 months.c
 learnt:what does segmentation fault mean 
 fix:it's a memory addres problem from what I know 
+
+October 4,2026
+printing_a_matrix.c
+learnt:became bit more efficient in understanding 2d arrays
