@@ -268,6 +268,6 @@ learnt:became bit more efficient in understanding 2d arrays
 
 
 
-October 6,2026 
+October 7,2026 
 arrays_of_string.c
 learnt:how to create arrays of string like also how to declare it in printf %s sees only 1d we see it as 2d
