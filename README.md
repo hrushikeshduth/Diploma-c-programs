@@ -264,3 +264,10 @@ fix:it's a memory addres problem from what I know
 October 4,2026
 printing_a_matrix.c
 learnt:became bit more efficient in understanding 2d arrays
+
+
+
+
+October 6,2026 
+arrays_of_string.c
+learnt:how to create arrays of string like also how to declare it in printf %s sees only 1d we see it as 2d
