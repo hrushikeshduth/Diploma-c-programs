@@ -275,9 +275,14 @@ learnt:how to create arrays of string like also how to declare it in printf %s s
 
 
 
-October 8,2025
+October 8,2026
 Printing_a_keypad_dialbox.c
 learnt:how to go through each element of multi dimensional array and make it print
+
+
+October 11,2026
+minimum_of_any_given_numbers_without_using_array.c
+
 
 
 
