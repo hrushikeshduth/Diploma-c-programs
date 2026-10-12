@@ -283,6 +283,9 @@ learnt:how to go through each element of multi dimensional array and make it pri
 October 11,2026
 minimum_of_any_given_numbers_without_using_array.c
 
+October 12,2026
+didn't start but will try to understand fgets function more taking array input
+
 
 
 
