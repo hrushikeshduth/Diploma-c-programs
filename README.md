@@ -286,6 +286,10 @@ minimum_of_any_given_numbers_without_using_array.c
 October 12,2026
 didn't start but will try to understand fgets function more taking array input
 
+October 13,2026
+files:Input_char_strings_arrays.c
+learnt:understood that we need to use strlen function to remove newline
+
 
 
 
