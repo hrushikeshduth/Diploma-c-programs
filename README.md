@@ -293,7 +293,7 @@ learnt:understood that we need to use strlen function to remove newline
 
 October 14,2026
 files:reverse_name.c
-learnt:effecient program string how to understand and how to use it
+learnt:effecient program string how to understand and how to use it more 3 to go Tommorow I'll complete if i have time
 
 
 
