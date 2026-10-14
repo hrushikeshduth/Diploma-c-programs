@@ -291,5 +291,10 @@ files:Input_char_strings_arrays.c
 learnt:understood that we need to use strlen function to remove newline
 
 
+October 14,2026
+files:reverse_name.c
+learnt:effecient program string how to understand and how to use it
+
+
 
 
