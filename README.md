@@ -1,4 +1,4 @@
-⁷First-Year Diploma C Programming
+o⁷First-Year Diploma C Programming
 
 Welcome to my repository! I am a first-year Diploma student learning the fundamentals of the C programming language. 
 
@@ -296,5 +296,6 @@ files:reverse_name.c
 learnt:effecient program string array how to understand and how to use it more 3 to go Tommorow I'll complete if i have time
 
 
-
+October 15,2026
+files:trailing_checker(didn't complete total).c
 
