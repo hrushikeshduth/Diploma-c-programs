@@ -299,3 +299,8 @@ learnt:effecient program string array how to understand and how to use it more 3
 October 15,2026
 files:trailing_checker(didn't complete total).c
 
+
+October 16,2026
+files:trailing_checker(didn't complete total).c
+learnt:we need to divide with or specify multi dimensional array if used it should be with row and column in size section to get accurate value of size when we divide with whole array eg size=array/array[0][1]
+
