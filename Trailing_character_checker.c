@@ -1,15 +1,14 @@
-
+/*. Count the spaces (looping through a string)
+Read one line of up to 80 characters. Print how many spaces it contains, including leading and trailing ones.*/
 #include <stdio.h>
 #include <string.h>
 int main(){
-char array[1][80]={{"   "}};
-int size;
-size=sizeof(array)/sizeof(array[0][1]);
+char array[1][80]={{"hru"}};
 
 int check=0;
 
-for(int k=0;k<=size;k++){
-for(int j=0;j<=size;j++){
+for(int k=0;k<=sizeof(array[0][1]);k++){
+for(int j=0;j<=sizeof(array);j++){
 
 if(array[k][j]==' '){
 	
@@ -28,18 +27,7 @@ printf("the number of traling characters is %d",check);
 	
 	
 	
-
-	
-	
-	
-	
-	// modified updated mostly correct still needs fixes
-	
-	
-	
-}	
-	
-
+/* tried fixxing */
 	
 	
 	
@@ -48,4 +36,4 @@ printf("the number of traling characters is %d",check);
 	
 	
 	
-
+}
