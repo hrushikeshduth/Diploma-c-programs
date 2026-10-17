@@ -304,3 +304,6 @@ October 16,2026
 files:trailing_checker(didn't complete total).c
 learnt:we need to divide with or specify multi dimensional array if used it should be with row and column in size section to get accurate value of size when we divide with whole array eg size=array/array[0][1]
 
+October 17,2026
+files:trailing_checker
+learnt:tried to fix more but debugging still not perfect 
