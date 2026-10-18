@@ -306,4 +306,4 @@ learnt:we need to divide with or specify multi dimensional array if used it shou
 
 
 October 18:
-salary bonus_hecker.c
+salary_bonus_checker.c
