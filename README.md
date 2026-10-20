@@ -313,4 +313,6 @@ Day_17_code_challenge.c
 learnt:i have learnt that in a code if you keep didn't declare variable in any expression that gives a value it will give or assign random garbage value to it
 
 
+October 20:
+Day_18_challenge.c
 
