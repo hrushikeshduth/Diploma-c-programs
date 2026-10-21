@@ -316,3 +316,6 @@ learnt:i have learnt that in a code if you keep didn't declare variable in any e
 October 20:
 Day_18_challenge.c
 
+
+October 21:
+Day_19_challenge.c
