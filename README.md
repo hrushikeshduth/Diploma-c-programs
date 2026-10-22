@@ -319,3 +319,6 @@ Day_18_challenge.c
 
 October 21:
 Day_19_challenge.c
+
+October 22:
+Currency_program.c
