@@ -3,22 +3,33 @@
 #include <stdio.h>
 int main(){
 int integer=0,digit=0;
-int value;
+
 
 printf("enter the value of integer");	
 scanf("%d",&integer);
-value=integer;
 
-value=integer%10;
-printf("%d",value);
+while(integer>0){
+integer=integer/10;
+printf("%d\n",integer);
+digit++;
 
-
+}
+	
+printf("%d",digit);
 	
 	
 	
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+}
 	
 	
 	
