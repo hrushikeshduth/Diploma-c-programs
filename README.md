@@ -322,3 +322,6 @@ Day_19_challenge.c
 
 October 22:
 Currency_program.c
+
+October 23:
+day_20.c
