@@ -1,0 +1,29 @@
+/*Day 20: Take an integer input and count how many digits it contains using a while loop.
+*/
+#include <stdio.h>
+int main(){
+int integer=0,digit=0;
+int value;
+
+printf("enter the value of integer");	
+scanf("%d",&integer);
+value=integer;
+
+value=integer%10;
+printf("%d",value);
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
