@@ -325,3 +325,6 @@ Currency_program.c
 
 October 23:
 day_20.c
+
+October 24:
+day_21.c
