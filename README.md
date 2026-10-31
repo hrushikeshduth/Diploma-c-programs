@@ -331,3 +331,6 @@ day_21.c
 
 October 28:
 day_22.c
+
+October 31:
+quizgame.c(finished)
