@@ -334,3 +334,8 @@ day_22.c
 
 October 31:
 quizgame.c(finished)
+
+November 1:
+
+quizgame.c(optimised)
+learnt:it tests conceptual usage of multidimensional arrays and it also made me more familiar in the usage of multidimensional arrays
