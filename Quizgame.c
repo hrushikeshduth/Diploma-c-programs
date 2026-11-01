@@ -25,41 +25,24 @@ printf("%s\n",options[i]);
 printf("enter your option; ");
 scanf(" %c",&Aoptions);
 //2nd issue i encountered
-if(i==0){
-if(Aoptions=='A'){
+//fixed!
+if(Aoptions==answerkey[i]){
 score++;
-printf(" your score is:%d\n",score);
+
 
 }else{
 printf("good you chose wrong\n");
 }
-	}
-else if(i==1){if(Aoptions=='D'){
-score++;
-printf("\n your score is:%d",score);
-
-		}else{
-printf("good you chose wrong\n");
+	
+	
+	
+	
+	
+	
+	
+	
 }
-}
-else if(i==2){
-if(Aoptions=='D'){
-score++;
-printf("\n your score is:%d",score);
-
-		}else{
-printf("good you chose wrong\n");
-}
-	
-	}	
-	
-	
-	
-	
-	
-	
-	
-}	
+printf("\n **Your overall test score is:%d\n**",score);	
 	
 	
 	
