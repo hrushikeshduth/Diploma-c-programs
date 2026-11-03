@@ -339,3 +339,8 @@ November 1:
 
 quizgame.c(optimised)
 learnt:it tests conceptual usage of multidimensional arrays and it also made me more familiar in the usage of multidimensional arrays
+
+
+November 3:
+Enum_and_typedef.c
+learnt:usage_of_type_def
