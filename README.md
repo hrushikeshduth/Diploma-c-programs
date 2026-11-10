@@ -344,3 +344,8 @@ learnt:it tests conceptual usage of multidimensional arrays and it also made me 
 November 3:
 Enum_and_typedef.c
 learnt:usage_of_type_def
+
+Nov 10:
+files:even_odd.c
+learnt:that return 1 ends the program early
+
