@@ -349,3 +349,9 @@ Nov 10:
 files:even_odd.c
 learnt:that return 1 ends the program early
 
+
+
+nov 24:
+files:memory_adress.c
+learnt:how to print a memory adress of num and how does computer actual store in its memory 
+
