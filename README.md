@@ -355,3 +355,10 @@ nov 24:
 files:memory_adress.c
 learnt:how to print a memory adress of num and how does computer actual store in its memory 
 
+
+
+
+Nov 25
+files: assigning_memory_adress_to_pointer.c
+learnt : how to assign memory adress to pointer
+
