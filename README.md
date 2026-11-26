@@ -362,3 +362,7 @@ Nov 25
 files: assigning_memory_adress_to_pointer.c
 learnt : how to assign memory adress to pointer
 
+
+Nov 26
+files :value_which_a_pointer_points_to.c
+
